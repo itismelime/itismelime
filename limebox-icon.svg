@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="limebox">
+  <title>limebox</title>
+  <rect x="3" y="3" width="58" height="58" rx="12" fill="#a6ff3d"/>
+  <path d="M32.00 18.00L44.12 25.00L44.12 39.00L32.00 46.00L19.88 39.00L19.88 25.00ZM32.00 32.00L19.88 25.00M32.00 32.00L44.12 25.00M32.00 32.00L32.00 46.00" fill="none" stroke="#0a0c0d" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

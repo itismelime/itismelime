@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://limebox.se"><img src="limebox-logo.svg" alt="limebox" width="300"></a>
+  <a href="https://limebox.se"><img src="limebox-icon.svg" alt="limebox" width="56" height="56"></a>
 </p>
 
 <code>// projects</code>
