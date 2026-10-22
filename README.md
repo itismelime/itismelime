@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://limebox.se"><img src="https://limebox.se/limebox-logo.svg" alt="limebox" width="360"></a>
+  <a href="https://limebox.se"><img src="limebox-logo.svg" alt="limebox" width="360"></a>
 </p>
 
 <p align="center">
