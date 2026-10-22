@@ -1,17 +1,23 @@
 <p align="center">
-  <a href="https://limebox.se"><img src="limebox-logo.svg" alt="limebox" width="360"></a>
+  <a href="https://limebox.se"><img src="limebox-logo.svg" alt="limebox" width="300"></a>
 </p>
 
-<p align="center">
-  <code>// from sweden with love &lt;3</code>
-</p>
+<code>// projects</code>
 
-<p align="center">
-  <a href="https://limebox.se"><b>limebox.se</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://openvibes-project.github.io/"><b>OpenVIBES</b></a>
-</p>
+<a href="https://limebox.se">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="cards/limebox-light.webp">
+    <img src="cards/limebox-dark.webp" alt="limebox: my personal page, the projects I build and work on" width="100%">
+  </picture>
+</a>
+<p><a href="https://limebox.se">limebox.se ↗</a> &nbsp; <a href="https://github.com/itismelime/limebox">github ↗</a></p>
 
----
+<a href="https://openvibes-project.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="cards/openvibes-light.webp">
+    <img src="cards/openvibes-dark.webp" alt="OpenVIBES: free, self-hosted security for homelabs and small businesses" width="100%">
+  </picture>
+</a>
+<p><a href="https://openvibes-project.github.io/">website ↗</a> &nbsp; <a href="https://github.com/openvibes-project">github ↗</a></p>
 
-**[OpenVIBES](https://github.com/openvibes-project)** is a free, self-hosted security tool for homelabs and small businesses: vulnerabilities, compliance and threat alarms in one fast console. [Website](https://openvibes-project.github.io/) · [GitHub](https://github.com/openvibes-project)
+<p align="center"><code>// from sweden with love &lt;3</code></p>
