@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://limebox.se"><img src="limebox-icon.svg" alt="limebox" width="56" height="56"></a>
 </p>
 
